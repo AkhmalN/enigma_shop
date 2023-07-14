@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/enigma_shop/static/css/main.f086f313.css",
-    "main.js": "/enigma_shop/static/js/main.cbf59375.js",
-    "static/media/2727507-removebg-preview.png": "/enigma_shop/static/media/2727507-removebg-preview.3439ff963dfb8a01b9f5.png",
+    "main.css": "/enigma_shop/static/css/main.1c34532e.css",
+    "main.js": "/enigma_shop/static/js/main.f8827e24.js",
+    "static/media/3255317.jpg": "/enigma_shop/static/media/3255317.4afc3962256c44c1a1b2.jpg",
     "static/media/2-removebg-preview.png": "/enigma_shop/static/media/2-removebg-preview.5824785f9d04f19fb735.png",
     "index.html": "/enigma_shop/index.html",
-    "main.f086f313.css.map": "/enigma_shop/static/css/main.f086f313.css.map",
-    "main.cbf59375.js.map": "/enigma_shop/static/js/main.cbf59375.js.map"
+    "main.1c34532e.css.map": "/enigma_shop/static/css/main.1c34532e.css.map",
+    "main.f8827e24.js.map": "/enigma_shop/static/js/main.f8827e24.js.map"
   },
   "entrypoints": [
-    "static/css/main.f086f313.css",
-    "static/js/main.cbf59375.js"
+    "static/css/main.1c34532e.css",
+    "static/js/main.f8827e24.js"
   ]
 }
