@@ -9,14 +9,18 @@ import Contact from './pages/contact';
 import Detail from './pages/detail';
 import { SkeletonTheme } from 'react-loading-skeleton';
 import Cart from './pages/cart';
+import './styles/global.css'
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-   <SkeletonTheme baseColor="#9BABB8" highlightColor="#D7C0AE" width='200px' height= '15px' >
+   <SkeletonTheme baseColor="#9BABB8" highlightColor="#D7C0AE" width='200px' height='15px' >
       <BrowserRouter>
          <Navbar />
          <Routes>
             <Route path='/' element={<Landing />} />
+         </Routes>
+         <Routes>
             <Route path='/home' element={<Home />} />
             <Route path='/shop' element={<Shop />} />
             <Route path='/shop/products/:id' element={<Detail />} />

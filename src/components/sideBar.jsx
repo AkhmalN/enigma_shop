@@ -38,6 +38,7 @@ function SideBar() {
                      <Link className="nav-link" href="#">Customers</Link>
                   </li>
                </ul>
+               
 
                <h6 className="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
                </h6>
