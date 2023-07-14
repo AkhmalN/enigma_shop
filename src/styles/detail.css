@@ -1,0 +1,22 @@
+
+.card-title{
+   margin-bottom: 0px;
+   font-size: 16px;
+}
+.card-img-top{
+   margin-bottom: 0px;
+   
+}
+.card-text{
+   float: right;
+   font-size: 30px;
+   margin-bottom: 0px;
+   color: #F29727;
+   font-weight: bold;
+}
+.detail-section{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}

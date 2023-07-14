@@ -1,0 +1,24 @@
+
+.card{
+   margin: 8px 10px;
+}
+.card-body{
+   justify-content: center;
+   display: flex;
+   flex-direction: column;
+}
+.card-title{
+   margin-bottom: 0px;
+   font-size: 16px;
+   flex-basis: 15%;
+}
+.card-img-top{
+   margin-bottom: 0px;
+   flex-basis: 60%;
+}
+.card-text{
+   margin-bottom: 0px;
+   flex-basis: 10%;
+   color: #F29727;
+   font-weight: bold;
+}
